@@ -3,10 +3,18 @@ Digital IC Design Engineer with hands-on experience in <br>VLSI Design & Verific
 
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 ![Verilog](https://img.shields.io/badge/HDL-Verilog-blue?style=for-the-badge)
 ![SystemVerilog](https://img.shields.io/badge/HDL-SystemVerilog-orange?style=for-the-badge)
 ![UVM](https://img.shields.io/badge/UVM-Verification-green?style=for-the-badge)
+
+![SoC Design](https://img.shields.io/badge/SoC-Design-purple?style=for-the-badge)
+![ASIC Design](https://img.shields.io/badge/ASIC-Design-darkred?style=for-the-badge)
+![FPGA](https://img.shields.io/badge/FPGA-Implementation-blue?style=for-the-badge)
+![Protocol Testing](https://img.shields.io/badge/Protocol-Testing-teal?style=for-the-badge)
+![RTL to GDS](https://img.shields.io/badge/RTL--to--GDSII-Flow-black?style=for-the-badge)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=deepam22-oct&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=deepam22-oct&theme=dark&hide_border=false)<br/>
