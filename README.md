@@ -1,5 +1,20 @@
-# 💫 :DEEPAM KUMAR BISOYI:
-Digital IC Design Engineer with hands-on experience in <br>VLSI Design & Verification, RTL coding, and ASIC/SoC <br>development. Skilled in Verilog, SystemVerilog , UVM .<br>
+# 💫                      i'm Deepam Kumar Bisoyi
+🚀 About Me
+🎓 Electronics & Communication Engineering graduate with strong interest in VLSI Design & Verification
+💼 Currently working as a Graduate Engineer Trainee (GET) in Network Mobility at Bharti Airtel
+📡 Hands-on experience in telecom network analytics, KPI analysis, and performance optimization
+🔧 Skilled in Verilog & SystemVerilog for RTL design and hardware modeling
+🧪 Practical exposure to UVM-based verification, testbench development, and debugging
+🧠 Strong understanding of digital design fundamentals, FSMs, pipelining, and protocols (I2C, etc.)
+⚡ Experience with FPGA-based implementations and real-time hardware projects
+🏭 Familiar with ASIC design flow (RTL → GDSII) and industry methodologies
+📊 Comfortable with Python & data analysis for automation and telecom KPI processing
+🧩 Built projects like:
+I2C Master–Slave Controller (Verilog)
+5-stage Pipelined MIPS CPU
+FPGA-based Face Detection System
+🎯 Actively aiming to transition into semiconductor/VLSI roles in design or verification
+📚 Continuously learning advanced topics in VLSI, SoC design, and hardware acceleration
 
 
 # 💻 Tech Stack:
