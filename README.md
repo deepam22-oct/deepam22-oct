@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🎓 Electronics & Communication Engineering graduate with strong interest in **VLSI Design & Verification**
-- 💼 Currently working as a Graduate Engineer Trainee (GET) in Network Mobility at Bharti Airtel <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Airtel_logo.svg" width="60"/>
+- 💼 Currently working as a Graduate Engineer Trainee (GET) in Network Mobility at Bharti Airtel 
 - 📡 Hands-on experience in **telecom network analytics, KPI analysis, and performance optimization**
 - 🔧 Skilled in **Verilog & SystemVerilog** for RTL design and hardware modeling
 - 🧪 Practical exposure to **UVM-based verification**, testbench development, and debugging
