@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 :DEEPAM KUMAR BISOYI:
 Digital IC Design Engineer with hands-on experience in <br>VLSI Design & Verification, RTL coding, and ASIC/SoC <br>development. Skilled in Verilog, SystemVerilog , UVM .<br>
 
 
